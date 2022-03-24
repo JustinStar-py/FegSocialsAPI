@@ -50,14 +50,12 @@
 
 <h3>Get details:</h3>
  <table>
-  <pre>
-    <li>Name - Twitter:                   API/GET/Twitter/Name</li>
-    <li>Bio - Twitter:                    API/GET/Twitter/Bio</li>
-    <li>Followers - Twitter:              API/GET/Twitter/Followers</li>
-    <li>Following - Twitter:              API/GET/Twitter/Following</li>
-    <li>Location - Twitter:               API/GET/Twitter/Location</li>
-    <li>Language - Twitter:               API/GET/Twitter/Language</li>
-    <li>Retweets - Twitter:               API/GET/Twitter/Retweets</li>
-    <li>and more ....</li>
-  </pre>
+  <pre><li>Name - Twitter:                   API/GET/Twitter/Name</li></pre>
+  <pre><li>Bio - Twitter:                    API/GET/Twitter/Bio</li></pre>
+  <pre><li>Followers - Twitter:              API/GET/Twitter/Followers</li></pre>
+  <pre><li>Following - Twitter:              API/GET/Twitter/Following</li></pre>
+  <pre><li>Location - Twitter:               API/GET/Twitter/Location</li></pre>
+  <pre><li>Language - Twitter:               API/GET/Twitter/Language</li></pre>
+  <pre><li>Retweets - Twitter:               API/GET/Twitter/Retweets</li></pre>
+    <pre><li>and more ....</li>
 </table>
