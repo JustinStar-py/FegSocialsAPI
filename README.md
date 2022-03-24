@@ -22,7 +22,7 @@
 
 <p>🌍Documentation:</p> 
 
-<h4>*GET - API - Instagram</h4>
+<h4>*GET - API - Instagram📸</h4>
 
 <h3>Get all information:</h3>
 <pre>All Data:          API/GET/Instagram/get_data</pre>
@@ -41,3 +41,19 @@
 <li>and more ....</li>
 </table></pre>
 
+<h4>*GET - API - Twitter🕊</h4>
+
+<h3>Get all information:</h3>
+<pre>All Data:          API/GET/Twitter/get_data</pre>
+
+<h3>Get details:</h3>
+<pre><table>
+<li>Name - Twitter:                   API/GET/Twitter/Name</li>
+<li>Bio - Twitter:                    API/GET/Twitter/Bio</li>
+<li>Followers - Twitter:              API/GET/Twitter/Followers</li>
+<li>Following - Twitter:              API/GET/Twitter/Following</li>
+<li>Location - Twitter:               API/GET/Twitter/Location</li>
+<li>Language - Twitter:               API/GET/Twitter/Language</li>
+<li>Retweets - Twitter:               API/GET/Twitter/Retweets</li>
+<li>and more ....</li>
+</table></pre>
