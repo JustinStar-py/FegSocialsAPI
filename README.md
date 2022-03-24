@@ -4,7 +4,7 @@
  
  <h5> <b>⚙Versian 1.1</b> - <u>Python</u> - <u>Django</u> - <u>bs4</u> </h5> 
 
-<title>For edit project 👇🏻<title>
+<code>For edit project 👇🏻</code>
  <pre>- apt install python3  
 - pip install django  
 - git clone https://github.com/JustinStar-py/feg-social-api   
