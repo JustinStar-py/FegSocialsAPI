@@ -18,22 +18,25 @@
   <li> Twitter API 🍗</li>   
   <li> Telegram coming soon..!</li> 
 </table> 
-<p>                                                                  </p>
+
 <p>🌍Documentation:</p> 
-<h1>                    </h1>
+
 <h4>*GET - API - Instagram</h4>
-<pre><h3>Get all information:</h3>
-All Data:                           API/GET/Instagram/get_data
+
+<h3>Get all information:</h3>
+   <pre>All Data:          API/GET/Instagram/get_data</pre>
+
 <h3>Get details:</h3>
-Name - instagram:                   API/GET/Instagram/full_name
-Bio - Instagram:                    API/GET/Instagram/biography
-Followers - Instagram:              API/GET/Instagram/followers
-Following - Instagram:              API/GET/Instagram/following
-Profile pic url - Instagram:        API/GET/Instagram/profile_pic_url
-business category name - Instagram: API/GET/Instagram/business_category_name
-posts video - Instagram:            API/GET/Instagram/posts_video
-display url - Instagram:            API/GET/Instagram/display_url
-business email - Instagram:         API/GET/Instagram/business_email
-and more ....</pre>
-<h1>                       <h1>
+<pre>
+<table>
+<li>Name - instagram:                   API/GET/Instagram/full_name</li>
+<li>Bio - Instagram:                    API/GET/Instagram/biography</li>
+<li>Followers - Instagram:              API/GET/Instagram/followers</li>
+<li>Following - Instagram:              API/GET/Instagram/following</li>
+<li>Profile pic url - Instagram:        API/GET/Instagram/profile_pic_url</li>
+<li>business category name - Instagram: API/GET/Instagram/business_category_name</li>
+<li>posts video - Instagram:            API/GET/Instagram/posts_video</li>
+<li>display url - Instagram:            API/GET/Instagram/display_url</li>
+<li>business email - Instagram:         API/GET/Instagram/business_email</li>
+<li>and more ....</li></pre>
 <h4>
