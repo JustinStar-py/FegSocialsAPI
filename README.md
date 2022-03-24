@@ -4,6 +4,7 @@
  
  <h5> <b>⚙Versian 1.1</b> - <u>Python</u> - <u>Django</u> - <u>bs4</u> </h5> 
  <h1>                                                           </h1>
+ <title>For edit project 👇🏻<title>
  <pre>- apt install python3  
 - pip install django  
 - git clone https://github.com/JustinStar-py/feg-social-api   
@@ -38,5 +39,6 @@
 <li>posts video - Instagram:            API/GET/Instagram/posts_video</li>
 <li>display url - Instagram:            API/GET/Instagram/display_url</li>
 <li>business email - Instagram:         API/GET/Instagram/business_email</li>
-<li>and more ....</li></pre>
+<li>and more ....</li>
+</table></pre>
 <h4>
