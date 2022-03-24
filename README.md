@@ -38,7 +38,7 @@
    <pre><li>posts video - Instagram:            API/GET/Instagram/posts_video</li></pre>
    <pre><li>display url - Instagram:            API/GET/Instagram/display_url</li></pre>
    <pre><li>business email - Instagram:         API/GET/Instagram/business_email</li></pre>
-   <pre><li>and more ....</li>
+   <pre><li>and more ....</li></pre>
  </table>
 
 <h4>*GET - API - Twitter🕊</h4>
@@ -55,5 +55,5 @@
   <pre><li>Location - Twitter:               API/GET/Twitter/Location</li></pre>
   <pre><li>Language - Twitter:               API/GET/Twitter/Language</li></pre>
   <pre><li>Retweets - Twitter:               API/GET/Twitter/Retweets</li></pre>
-  <pre><li>and more ....</li>
+  <pre><li>and more ....</li></pre>
 </table>
