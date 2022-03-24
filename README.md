@@ -21,4 +21,27 @@
   <li> Telegram coming soon..!</li> 
 </table> 
 <p>                                                                  </p>
-<p>🌍Documentation is coming ... </p> 
+<p>🌍Documentation:</p> 
+<h1>                    </h1>
+<h4>*GET - Instagram</h4>
+<pre>
+  <h3>Get all information:</h3>
+  
+      All Data:                           API/GET/Instagram/get_data
+      
+  <h3>Get details:</h3>
+  
+      Name - instagram:                   API/GET/Instagram/full_name
+      Bio - Instagram:                    API/GET/Instagram/biography
+      Followers - Instagram:              API/GET/Instagram/followers
+      Following - Instagram:              API/GET/Instagram/following
+      Profile pic url - Instagram:        API/GET/Instagram/profile_pic_url
+      business category name - Instagram: API/GET/Instagram/business_category_name
+      posts video - Instagram:            API/GET/Instagram/posts_video
+      display url - Instagram:            API/GET/Instagram/display_url
+      business email - Instagram:         API/GET/Instagram/business_email
+      
+</pre>
+
+<h1>                       <h1>
+<h4>
