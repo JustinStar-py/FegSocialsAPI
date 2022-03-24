@@ -26,7 +26,7 @@ def insta_api():
        querystring = {"user_name":"feg_token"}
        headers = {
            'x-rapidapi-host': "instagram28.p.rapidapi.com",
-           'x-rapidapi-key': "750b542789msh2a0f4bc6a06ced1p157b31jsn07be026f1e79"
+           'x-rapidapi-key': "rapid-key"
            }
        data = requests.request("GET", url, headers=headers, params=querystring)
        print("-"*20 + "req sent!" + "-"*20)
