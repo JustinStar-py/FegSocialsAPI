@@ -1,4 +1,3 @@
-from xmlrpc.client import METHOD_NOT_FOUND
 from django.http import JsonResponse, response
 from django.shortcuts import render
 import requests,json,asyncio
@@ -52,10 +51,10 @@ def twitter_api():
     soup = BeautifulSoup(req.text, 'html.parser')
 
     if "FEG" not in soup.title.text:
-        with open("twitter-data.html","r") as data_page:
+        with open("twitter-data.txt","r") as data_page:
                 soup = BeautifulSoup(data_page, 'html.parser')
     else:
-       with open("twitter-data.html","w") as data_page:
+       with open("twitter-data.txt","w") as data_page:
                data_page.write(req.text)
                data_page.close()
 
