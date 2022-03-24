@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'FegSocialsAPI.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "d5iv9emsb9dgrp",
-        'USER': 'pojhqwnvqxdbvp',
-        'PASSWORD': '0b148c0137f0c5c31b2874575ba1fa547e257a6c59fcd983e50bdf8de9dd2c72',
-        'HOST': 'ec2-52-201-124-168.compute-1.amazonaws.com',
+        'NAME': "ddbekbrulp2ri8",
+        'USER': 'hoiwifepgmslix',
+        'PASSWORD': '17a206cea064b5e4749e33ed91170918b572199b6d05b6b1f0dfcb971ca0c699',
+        'HOST': 'ec2-52-3-60-53.compute-1.amazonaws.com',
         'PORT': '5432',
 
     }
