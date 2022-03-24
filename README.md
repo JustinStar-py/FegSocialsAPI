@@ -29,18 +29,16 @@
 
 <h3>Get details:</h3>
   <table>
-   <pre>
-     <li>Name - instagram:                   API/GET/Instagram/full_name</li>
-     <li>Bio - Instagram:                    API/GET/Instagram/biography</li>
-     <li>Followers - Instagram:              API/GET/Instagram/followers</li>
-     <li>Following - Instagram:              API/GET/Instagram/following</li>
-     <li>Profile pic url - Instagram:        API/GET/Instagram/profile_pic_url</li>
-     <li>business category name - Instagram: API/GET/Instagram/business_category_name</li>
-     <li>posts video - Instagram:            API/GET/Instagram/posts_video</li>
-     <li>display url - Instagram:            API/GET/Instagram/display_url</li>
-     <li>business email - Instagram:         API/GET/Instagram/business_email</li>
-     <li>and more ....</li>
-   </pre>
+   <pre><li>Name - instagram:                   API/GET/Instagram/full_name</li></pre>
+   <pre><li>Bio - Instagram:                    API/GET/Instagram/biography</li></pre>
+   <pre><li>Followers - Instagram:              API/GET/Instagram/followers</li></pre>
+   <pre><li>Following - Instagram:              API/GET/Instagram/following</li></pre>
+   <pre><li>Profile pic url - Instagram:        API/GET/Instagram/profile_pic_url</li></pre>
+   <pre><li>business category name - Instagram: API/GET/Instagram/business_category_name</li></pre>
+   <pre><li>posts video - Instagram:            API/GET/Instagram/posts_video</li></pre>
+   <pre><li>display url - Instagram:            API/GET/Instagram/display_url</li></pre>
+   <pre><li>business email - Instagram:         API/GET/Instagram/business_email</li></pre>
+   <pre><li>and more ....</li>
  </table>
 
 <h4>*GET - API - Twitter🕊</h4>
@@ -57,5 +55,5 @@
   <pre><li>Location - Twitter:               API/GET/Twitter/Location</li></pre>
   <pre><li>Language - Twitter:               API/GET/Twitter/Language</li></pre>
   <pre><li>Retweets - Twitter:               API/GET/Twitter/Retweets</li></pre>
-    <pre><li>and more ....</li>
+  <pre><li>and more ....</li>
 </table>
