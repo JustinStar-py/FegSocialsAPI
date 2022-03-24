@@ -1,5 +1,5 @@
  # FegSocialsAPI
-🎇 FEG SOCIAL API FOR FEG PROJECTS 🎇
+ 🦍 FEG SOCIALS API 🦍
  <p>                                                      </p> 
  
  <h5> <b>⚙Versian 1.1</b> - <u>Python</u> - <u>Django</u> - <u>bs4</u> </h5> 
@@ -25,11 +25,10 @@
 <h4>*GET - API - Instagram</h4>
 
 <h3>Get all information:</h3>
-   <pre>All Data:          API/GET/Instagram/get_data</pre>
+<pre>All Data:          API/GET/Instagram/get_data</pre>
 
 <h3>Get details:</h3>
-<pre>
-<table>
+<pre><table>
 <li>Name - instagram:                   API/GET/Instagram/full_name</li>
 <li>Bio - Instagram:                    API/GET/Instagram/biography</li>
 <li>Followers - Instagram:              API/GET/Instagram/followers</li>
@@ -41,4 +40,4 @@
 <li>business email - Instagram:         API/GET/Instagram/business_email</li>
 <li>and more ....</li>
 </table></pre>
-<h4>
+
